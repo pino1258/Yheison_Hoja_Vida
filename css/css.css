@@ -1,0 +1,30 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+  }
+  
+  header{
+      display: flex;
+      justify-content: space-evenly ;
+  }
+  header h1{
+      color: gray;
+  }
+  
+  article{
+    display: flex;
+    justify-content: space-evenly; 
+  
+  }
+  
+  .perfil_personal .list-group .list-group-item {
+    width: 90%;
+    height: 70px;
+    border-radius: 30px;
+    text-align: center;
+  }
